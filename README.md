@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ML basics 
 - 😄 Pronouns: she/her
 - 🖥️ Languages: python, java, typescript, HTML, CSS, javascript, C, C++ 
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: if i could only eat one thing for the rest of my life i would choose tiramisu 
