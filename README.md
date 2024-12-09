@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mantraburger)](https://github.com/mantraburger/github-readme-stats) --> 
 
 - 🔭 I’m currently working on creating machine learning models to classify satellite images 
-- 🌱 I’m currently learning ML basics 
+- 🌱 I’m currently learning ML and comptuer vision! 
 - 😄 Pronouns: she/her
 - 🖥️ Languages: python, java, typescript, HTML, CSS, javascript, C, C++ 
 - ⚡ Fun fact: if i could only eat one thing for the rest of my life i would choose tiramisu 
